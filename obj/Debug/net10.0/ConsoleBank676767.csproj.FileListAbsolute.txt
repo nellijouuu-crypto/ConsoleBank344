@@ -1,0 +1,15 @@
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\bin\Debug\net10.0\ConsoleBank676767.exe
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\bin\Debug\net10.0\ConsoleBank676767.deps.json
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\bin\Debug\net10.0\ConsoleBank676767.runtimeconfig.json
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\bin\Debug\net10.0\ConsoleBank676767.dll
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\bin\Debug\net10.0\ConsoleBank676767.pdb
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.AssemblyInfoInputs.cache
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.AssemblyInfo.cs
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.dll
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\refint\ConsoleBank676767.dll
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.pdb
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleBank676767.genruntimeconfig.cache
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ref\ConsoleBank676767.dll
+C:\Users\UserHome\Desktop\мдк 01 01\Шелухина\ConsoleBank676767\obj\Debug\net10.0\ConsoleB.4E48E080.Up2Date
