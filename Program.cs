@@ -25,6 +25,12 @@ namespace ConsoleBank
             int countDays;
             string temp;
 
+            //Оформление консоли
+            Console.Title = "Банковская задача";
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
+            Console.Clear();
+
             //Ввод исходных данных с клавиатуры
             Console.Write("Введите сумму вклада: ");    //Вывод на экран
             temp = Console.ReadLine();     //Получение данных с клавитуры с нажатием Enter
